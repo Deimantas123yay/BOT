@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "schoolserverALP.aternos.me:45336",
+    "ip": "schoolserverALP.aternos.me",
     "port": 45336,
     "version": "",
     "try-creative": false
